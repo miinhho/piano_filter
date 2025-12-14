@@ -1,0 +1,19 @@
+# Virtual environment directory managed by uv
+.venv/
+
+# Environment variables
+.env
+
+# Byte-compiled files
+__pycache__
+*.pyc
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
